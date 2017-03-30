@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+Home
+
 About content goes here.
 
 * A list item
