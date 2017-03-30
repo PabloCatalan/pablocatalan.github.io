@@ -1,6 +1,7 @@
 # Site Settings
 title: Pablo Catalan
 email: pablocatalanfdez@gmail.com
+theme: jekyll-theme-cayman
 description: >
   Living somewhere in the intersection between Math and Biology (if that even exists).
 baseurl: ""
