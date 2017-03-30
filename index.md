@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
+title: Home
+permalink: /
 ---
+What is a biologist that likes maths?
 
-  # What is a biologist that likes maths?
-
-  This is my attempt to do a professional webpage.
+This is my attempt to do a professional webpage.
