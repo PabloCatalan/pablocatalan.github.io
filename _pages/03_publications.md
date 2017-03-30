@@ -12,5 +12,4 @@ permalink: /publications/
 0. **Catalán, P.**, Seoane, J.M. and Sanjuán, M.A.F. 2015. [Mutation-selection equilibrium in finite populations playing a Hawk-Dove game](http://www.sciencedirect.com/science/article/pii/S1007570415000246). *Communications  in  Nonlinear  Science  and  Numerical Simulations* 25:66-73. [[PDF](/papers/catalan2015_hawk_dove.pdf)]
 0.  Arias, C.F., **Catalán, P.**, Manrubia, S and Cuesta, J.A. 2014. [toyLIFE: a computational framework to study the multi-level organization of the genotype-phenotype map](http://www.nature.com/articles/srep07549). *Scientific  Reports* 4:7549. [[PDF](/papers/arias2014_toyLIFE.pdf)]
 0. **Catalán, P.**,  Vázquez  de  Aldana,  B.R.,  De  las  Heras,  P.,  Fernández-Seral,  A.  and  Pérez-Corona, M.E. 2013. [Comparing  the  allelopathic  potential  of  exotic  and  native  plant  species  on  understory plants:  are exotic plants better armed?](https://www.um.es/analesdebiologia/numeros/35/PDF/35_2013_10.pdf) *Anales de Biología* 35:  65-74.
-
 {: reversed="reversed"}
