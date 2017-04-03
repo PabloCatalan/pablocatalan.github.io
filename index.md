@@ -2,9 +2,7 @@
 layout: page
 ---
 
-Hello there!
-
-My name is Pablo Catalan, and this is my professional webpage.
+<img src=/foto.jpg>
 
 I just finished a PhD in Evolutionary Biology at the Universidad Carlos III de Madrid, supervised by [Jose A Cuesta](http://gisc.uc3m.es/~cuesta/), with the Interdisciplinary Group on Complex Systems ([GISC](http://gisc.es)). I am still working there as a postdoc, and also in the process of finishing a BSc in Math (because, you know, just a PhD was boring). You can see [my CV here](/CV_eng.pdf).
 
