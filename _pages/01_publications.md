@@ -4,8 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-0. **Catalán, P.**, Wagner, A., Manrubia, S. and Cuesta, J. A. 2018. [Adding levels of complexity enhances robustness and evolvability in a multilevel genotype–phenotype map](http://rsif.royalsocietypublishing.org/content/15/138/20170516). *Journal of the Royal Society Interface* 15:20170516. [[PDF](/papers/catalan2018_toyLIFE_complexity.pdf)]
-
+0. **Catalán, P.**, Wagner, A., Manrubia, S. and Cuesta, J. A. 2018. [Adding levels of complexity enhances robustness and evolvability in a multilevel genotype–phenotype map](http://rsif.royalsocietypublishing.org/content/15/138/20170516). *Journal of the Royal Society Interface* 15:20170516. [[PDF](/papers/catalan2018_toyLIFE_complexity.pdf)] [[Supplementary Material](/papers/catalan2018_toyLIFE_complexity_SM.pdf)]
 0. **Catalán, P.**, Arias, C.F., Cuesta, J. A. and Manrubia, S. 2017. [Adaptive multiscapes: an up-to-date metaphor to visualize molecular adaptation](http://biologydirect.biomedcentral.com/articles/10.1186/s13062-017-0178-1). *Biology Direct* 12:7. [[PDF](/papers/catalan2017_adaptive_multiscapes.pdf)]
 0. **Catalán, P.**, Delgado, J.A., Jiménez, M.D. and Balaguer, L. 2016. [Sink strength manipulation in branches of a Mediterranean woody plant suggests sink-driven allocation of biomass in fruits but not of nutrients in seeds](http://link.springer.com/article/10.1007/s11738-016-2220-9). *Acta Physiologiae Plantarum* 38:193. [[PDF](/papers/catalan2016_sink_strength.pdf)]
 0.  Planchuelo, G., **Catalán, P.** and Delgado, J.A. 2016. [Gone with the wind and the stream: Dispersal in the invasive species
