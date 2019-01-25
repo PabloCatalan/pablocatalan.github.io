@@ -8,19 +8,15 @@ permalink: /contact/
 
 >Pablo Catalan Fernandez
 
->Departamento de Matemáticas (office 2.1D10)
+>Geoffrey Pope Building
 
->Universidad Carlos III de Madrid
+>University of Exeter
 
->Avenida de la Universidad 30
-
->28911 Leganés (SPAIN)
+>Stocker Road, Exeter, EX4 4QD (UK)
 
 
 ### Email
 You can find me at 
-
->pcatalan [at] math.uc3m.es
 
 >pablocatalanfdez [at] gmail.com
 
