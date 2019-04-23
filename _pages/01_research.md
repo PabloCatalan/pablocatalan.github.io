@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-### ANTIBIOTIC RESISTANCE (with Rob Beardmore)
+### ANTIBIOTIC RESISTANCE (with [Rob Beardmore](http://people.exeter.ac.uk/reb217/rebHomePage/home.html))
 
 My current main research topic is the study of the evolution of antibiotic resistance in bacteria. 
 
