@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Research
 permalink: /research/
 ---
 
-###
 
 ### ANTIBIOTIC RESISTANCE (with Rob Beardmore)
 
