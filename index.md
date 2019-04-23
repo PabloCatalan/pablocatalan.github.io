@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="/foto.jpg" width="25%" height="25%">
+<img src="/whitish_wide.jpg" width="25%" height="25%">
 
 I am a [Ramón Areces Postdoctoral Fellow](http://www.fundacionareces.es/fundacionareces/cambiarIdioma.do?LANG=en) at [Rob Beardmore's lab](https://biosciences.exeter.ac.uk/staff/index.php?web_id=Rob_Beardmore) at the University of Exeter. We work on antibiotic resistance evolution, combining mathematical modelling and experiments.
 
