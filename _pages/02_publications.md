@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+0. **Catalán, P.**, Elena, S. F., Cuesta,  J. A. and  Manrubia, S. 2019. [Parsimonious Scenario for the
+  Emergence of Viroid-Like Replicons De Novo](https://www.mdpi.com/1999-4915/11/5/425/htm). Viruses
+    11:425. [[PDF](/papers/catalan2019_parsimonius_emergence_viroids.pdf)]
 0. García-Martín, J.A., **Catalán, P.**, Manrubia, S. and Cuesta, J. A. 2018. [Statistical theory of phenotype abundance distributions: a test through exact enumeration of genotype spaces](http://iopscience.iop.org/article/10.1209/0295-5075/123/28001). Europhysics Letters 123:2800. [[PDF](/papers/garciamartin2018_statistical_theory_phenotype_abundance.pdf)]
 0. Aguirre, J., **Catalán, P.**, Cuesta, J. A. and Manrubia, S. 2018. [On the networked architecture of genotype spaces and its critical effects on molecular evolution](http://rsob.royalsocietypublishing.org/content/8/7/180069). Open Biology 8:180069. [[PDF](/papers/aguirre2018_networked_structure.pdf)]
 0. **Catalán, P.**, Wagner, A., Manrubia, S. and Cuesta, J. A. 2018. [Adding levels of complexity enhances robustness and evolvability in a multilevel genotype–phenotype map](http://rsif.royalsocietypublishing.org/content/15/138/20170516). *Journal of the Royal Society Interface* 15:20170516. [[PDF](/papers/catalan2018_toyLIFE_complexity.pdf)] [[SM](/papers/catalan2018_toyLIFE_complexity_SM.pdf)]
