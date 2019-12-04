@@ -4,10 +4,6 @@ layout: page
 
 <img src="https://github.com/PabloCatalan/pablocatalan.github.io/raw/master/whitish_wide_web2.jpg" width="70%" height="70%">
 
-I am a [Ramón Areces Postdoctoral Fellow](http://www.fundacionareces.es/fundacionareces/cambiarIdioma.do?LANG=en) at [Rob Beardmore's lab](https://biosciences.exeter.ac.uk/staff/index.php?web_id=Rob_Beardmore) at the University of Exeter. We work on antibiotic resistance evolution, combining mathematical modelling and experiments.
+I am an Assistant Professor in the Department of Mathematics at Universidad Carlos III de Madrid, where I teach Calculus and Linear Algebra to Engineering studies. My main research interest is applying mathematical methods to biological problems. I have [three main research lines](/research), and you can see [a list of my publications here](/publications). You can find [my CV here](/pablocatalan_cveng.pdf).
 
-My main research interest is applying mathematical methods to biological problems. Apart from my work with Rob, I collaborate with my PhD advisor, [Jose A Cuesta](http://gisc.uc3m.es/~cuesta/), and [Susanna Manrubia](https://auditore.cab.inta-csic.es/manrubia/), working to understand how the mapping between genotypes to phenotypes alters evolution. For [my PhD](papers/pablocatalan_phdtesis.pdf) I studied the genotype-phenotype map at the molecular/regulatory/cellular level. In order to do that, we designed a cool computational model called [toyLIFE](/toyLIFE), which contains analogs of genes, proteins and metabolites, all interacting between each other to simulate a simplified cellular biology.
-
-I also collaborate with [Saúl Ares](http://gisc.uc3m.es/~saul/) on plant systems biology.
-
-You can see [my CV here](/pablocatalan_cveng.pdf).
+I am a husband an a father. I also practice Zen Buddhism with [Jeff Shore](https://beingwithoutself.org) and coordinate a [meditation group in Madrid](https://pandazen.es).
