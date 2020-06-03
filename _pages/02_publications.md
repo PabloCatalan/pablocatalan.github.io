@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-0. **Catalán, P.**, Manrubia, S. and Cuesta, J. A. 2018. [Populations of genetic circuits are unable to find the fittest solution in a multilevel genotype–phenotype map](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0843). *Journal of the Royal Society Interface* 17:20190843. [[PDF](/papers/catalan2020_patterns.pdf)] [[SM](/papers/catalan2020_patterns_Supp.pdf)]
+0. **Catalán, P.**, Manrubia, S. and Cuesta, J. A. 2020. [Populations of genetic circuits are unable to find the fittest solution in a multilevel genotype–phenotype map](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0843). *Journal of the Royal Society Interface* 17:20190843. [[PDF](/papers/catalan2020_patterns.pdf)] [[SM](/papers/catalan2020_patterns_Supp.pdf)]
 0. **Catalán, P.**, Elena, S. F., Cuesta,  J. A. and  Manrubia, S. 2019. [Parsimonious Scenario for the
   Emergence of Viroid-Like Replicons De Novo](https://www.mdpi.com/1999-4915/11/5/425/htm). Viruses
     11:425. [[PDF](/papers/catalan2019_parsimonius_emergence_viroids.pdf)]
