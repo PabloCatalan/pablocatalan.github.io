@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+
+0.  Reding, C., **Catalán, P.**, Jansen, G., Bergmiller, T., Wood, E., Rosenstiel, P., Schulenburg, H., Gudelj, I. and Beardmore, R. 2021. [The Antibiotic Dosage of Fastest Resistance Evolution: gene amplifications underpinning the inverted-U](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab025/6161781). *Molecular Biology and Evolution* msab025, https://doi.org/10.1093/molbev/msab025. [[PDF](/papers/reding2021_invertedU.pdf)]
 0. **Catalán, P.**, Manrubia, S. and Cuesta, J. A. 2020. [Populations of genetic circuits are unable to find the fittest solution in a multilevel genotype–phenotype map](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0843). *Journal of the Royal Society Interface* 17:20190843. [[PDF](/papers/catalan2020_patterns.pdf)] [[SM](/papers/catalan2020_patterns_Supp.pdf)]
 0. **Catalán, P.**, Elena, S. F., Cuesta,  J. A. and  Manrubia, S. 2019. [Parsimonious Scenario for the
   Emergence of Viroid-Like Replicons De Novo](https://www.mdpi.com/1999-4915/11/5/425/htm). Viruses
