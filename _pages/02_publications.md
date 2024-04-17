@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
+0. Rodríguez-Maroto, G., **Catalán, P.** (co-first author), Nieto, C., Prat, S. and Ares, S. 2024. [Mathematical Modeling of Photo- and Thermomorphogenesis in Plants](https://link.springer.com/protocol/10.1007/978-1-0716-3814-9_23). In: Chen, M. (Ed.), *Thermomorphogenesis. Methods in Molecular Biology*, vol 2795 (chapter 23). Humana, New York, NY. [[PDF](/papers/rodriguez-maroto2024_mathematical_modeling.pdf)]
 0. Zhou, Qi, **Catalán, P.** (co-first author), Bell, H., Baumann, P., Evans, R., Yang, J., Zhang, Z., Zappala, D., Zhang, Y., Blackburn, G. M., He, Y. and Jin, Y. 2023. [An Ion-Pair Induced Intermediate Complex Captured in Class D Carbapenemase Reveals Chloride Ion as a Janus Effector Modulating Activity](https://pubs.acs.org/doi/10.1021/acscentsci.3c00609). *ACS Central Science* (in press) [[PDF](/papers/zhou2023_oxa48.pdf)] [[SM](/papers/zhou2023_SI.pdf)]
 0. **Catalán, P.**, García-Martín, J. A., Aguirre, J., Cuesta, J. A. and Manrubia, S. 2023. [Entropic contribution to phenotype fitness](https://iopscience.iop.org/article/10.1088/1751-8121/ace8d6). *Journal of Physics A: Mathematical and Theoretical* 56, 345601. [[PDF](/papers/catalan2023_entropy_fitness.pdf)]
 0. Nieto, C., **Catalán, P.** (co-first author), Luengo, L. M., Legris, M., López-Salmerón, V., Davière, J. M., Casal, J. J., Ares, S. and Prat, S. 2022. [COP1 dynamics integrate conflicting seasonal light and thermal cues in the control of Arabidopsis elongation](https://www.science.org/doi/full/10.1126/sciadv.abp8412). *Science Advances* 8, eabp8412. [[PDF](/papers/nieto2022_cop1.pdf)] [[SM](/papers/nieto2022_SI.pdf)]
