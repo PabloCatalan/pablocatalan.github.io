@@ -18,11 +18,9 @@ permalink: /contact/
 ### Email
 You can find me at 
 
->pablocatalanfdez [at] gmail [dot] com
-
 >pcatalan [at] math [dot] uc3m [dot] com
 
 
-### Twitter
+### BlueSky
 
-[@the100footpole](http://twitter.com/the100footpole)
+[@the100footpole.bsky.social](https://bsky.app/profile/the100footpole.bsky.social)
