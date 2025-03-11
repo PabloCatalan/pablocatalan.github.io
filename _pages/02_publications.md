@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+0. Dı́az-Colunga, J., **Catalán, P.** (co-first author), San Román, M., Arrabal, A. and Sánchez, A. 2024. [Full factorial cons-
+truction of synthetic microbial communities](https://elifesciences.org/reviewed-preprints/101906). *eLife* 13, RP101906.
 0. Rodríguez-Maroto, G., **Catalán, P.** (co-first author), Nieto, C., Prat, S. and Ares, S. 2024. [Mathematical Modeling of Photo- and Thermomorphogenesis in Plants](https://link.springer.com/protocol/10.1007/978-1-0716-3814-9_23). In: Chen, M. (Ed.), *Thermomorphogenesis. Methods in Molecular Biology*, vol 2795 (chapter 23). Humana, New York, NY. [[PDF](/papers/rodriguez-maroto2024_mathematical_modeling.pdf)] (Book chapter)
 0. Zhou, Qi, **Catalán, P.** (co-first author), Bell, H., Baumann, P., Evans, R., Yang, J., Zhang, Z., Zappala, D., Zhang, Y., Blackburn, G. M., He, Y. and Jin, Y. 2023. [An Ion-Pair Induced Intermediate Complex Captured in Class D Carbapenemase Reveals Chloride Ion as a Janus Effector Modulating Activity](https://pubs.acs.org/doi/10.1021/acscentsci.3c00609). *ACS Central Science* 9, 2339 [[PDF](/papers/zhou2023_oxa48.pdf)] [[SM](/papers/zhou2023_SI.pdf)]
 0. **Catalán, P.**, García-Martín, J. A., Aguirre, J., Cuesta, J. A. and Manrubia, S. 2023. [Entropic contribution to phenotype fitness](https://iopscience.iop.org/article/10.1088/1751-8121/ace8d6). *Journal of Physics A: Mathematical and Theoretical* 56, 345601. [[PDF](/papers/catalan2023_entropy_fitness.pdf)]
