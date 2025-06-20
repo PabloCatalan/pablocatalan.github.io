@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uc3m.es/'>Department of Mathematics, Universidad Carlos III de Madrid</a>.
+subtitle: <a href='https://www.uc3m.es/'> Department of Mathematics, Universidad Carlos III de Madrid</a>.
 
 profile:
   align: right
