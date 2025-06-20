@@ -32,6 +32,8 @@ I am a multidisciplinary researcher with degrees in Biology, Physics and Mathema
 
 After earning my PhD in Mathematical Engineering from UC3M in 2017, I won a Ramón Areces Postdoctoral Fellowship to work on antibiotic resistance at the University of Exeter, where I stayed for one year. In 2019 I returned to the Department of Mathematics at UC3M as an Assistant Professor. Finally, in 2025 I became Associate Professor.
 
+I am a member of the [Grupo Interdisciplinar de Sistemas Complejos (GISC)](http://www.gisc.es/), a research group gathering people from departments of physics, mathematics, and biology at several institutions, and whose main interest is the physics of complex systems.
+
 I teach several math courses for different degrees at UC3M. My notes can be found in the [teaching](teaching/) page.
 
 In my free time, I practice Zen meditation.
