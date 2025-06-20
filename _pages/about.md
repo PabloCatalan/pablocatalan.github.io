@@ -28,10 +28,12 @@ latest_posts:
 
 I am a multidisciplinary researcher with degrees in Biology, Physics and Mathematics. I am interested in using quantitative methods to solve biological problems.
 
-I earned my PhD in Mathematical Engineering from UC3M
+After earning my PhD in Mathematical Engineering from UC3M in 2017, I won a Ramón Areces Postdoctoral Fellowship to work on antibiotic resistance at the University of Exeter, where I stayed for one year. In 2019 I returned to the Department of Mathematics at UC3M as an Assistant Professor. Finally, in 2025 I became Associate Professor.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I teach several math courses for different degrees at UC3M. My notes can be found in the [teaching/](Teaching) page.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
