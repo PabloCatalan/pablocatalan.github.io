@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uc3m.es/'> Department of Mathematics, Universidad Carlos III de Madrid</a>.
+subtitle: Associate Professor, <a href='https://www.uc3m.es/'> Department of Mathematics, Universidad Carlos III de Madrid</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>pcatalan [at[ math.uc3m [dot] com</p>
+    <p>pcatalan (at) math.uc3m (dot) com</p>
+    <p>[assets/pdf/pablocatalan_cveng.pdf]([curriculum vitae])</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a multidisciplinary researcher with degrees in Biology, Physics and Mathematics. I am interested in using quantitative methods to solve biological problems.
 
+I earned my PhD in Mathematical Engineering from UC3M
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
