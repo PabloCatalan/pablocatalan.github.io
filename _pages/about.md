@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>pcatalan (at) math.uc3m (dot) com</p>
+    <p>pcatalan@math.uc3m.com</p>
     <p>[[curriculum vitae]](assets/pdf/pablocatalan_cveng.pdf)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -33,3 +33,5 @@ I am a multidisciplinary researcher with degrees in Biology, Physics and Mathema
 After earning my PhD in Mathematical Engineering from UC3M in 2017, I won a Ramón Areces Postdoctoral Fellowship to work on antibiotic resistance at the University of Exeter, where I stayed for one year. In 2019 I returned to the Department of Mathematics at UC3M as an Assistant Professor. Finally, in 2025 I became Associate Professor.
 
 I teach several math courses for different degrees at UC3M. My notes can be found in the [teaching](teaching/) page.
+
+In my free time, I practice Zen meditation.
