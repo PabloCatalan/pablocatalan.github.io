@@ -45,9 +45,9 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "teaching-project-1",
-          title: 'project 1',
-          description: "with background image",
+      },{id: "teaching-calculus-i",
+          title: 'Calculus I',
+          description: "calculus in one variable",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
             },},{
