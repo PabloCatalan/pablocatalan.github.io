@@ -50,6 +50,11 @@ ninja.data = [{
           description: "calculus in one variable",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_teaching/";
+            },},{id: "teaching-calculus-ii",
+          title: 'Calculus II',
+          description: "calculus in several variable",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2_teaching/";
             },},{
         id: 'social-email',
         title: 'email',
