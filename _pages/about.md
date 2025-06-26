@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, <a href='https://www.uc3m.es/'> Department of Mathematics, Universidad Carlos III de Madrid</a>.
+subtitle: Associate Professor, <a href='https://www.uc3m.es/mathematics-department/home'> Department of Mathematics, Universidad Carlos III de Madrid</a>.
 
 profile:
   align: right
