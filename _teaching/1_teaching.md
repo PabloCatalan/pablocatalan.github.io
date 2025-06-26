@@ -1,12 +1,18 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Calculus I
+description: calculus in one variable
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+
+The course will teach you to deal with functions in one variable.
+
+YouTube: https://www.youtube.com/watch?v=H7yr607PJQ0&list=PLqcCv_LnBG_1KR12AOc0fgVnLDv8f0cZM
+
+OCW UC3M: https://ocw.uc3m.es/course/view.php?id=306
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
