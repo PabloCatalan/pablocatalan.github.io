@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>pcatalan@math.uc3m.com</p>
     <p><a href="assets/pdf/pablocatalan_cveng.pdf">curriculum vitae</a></p>
+    <p><a href="https://scholar.google.es/citations?user=IoafmMMAAAAJ">google scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
