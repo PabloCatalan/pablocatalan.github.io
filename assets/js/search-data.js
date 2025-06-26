@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses I have taught at UC3M.",
+          description: "Materials for courses I have taught at UC3M (under construction)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
