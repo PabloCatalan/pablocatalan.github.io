@@ -193,9 +193,10 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
+  - _pages/blog.md
   - _projects/
-  - _blog/
-  - _repositories/
+  - _pages/projects.md
+  - _pages/repositories.md
   - _cv/
   - _people/
 keep_files:
