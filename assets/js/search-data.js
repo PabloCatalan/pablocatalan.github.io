@@ -16,26 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses I have taught at UC3M.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -73,23 +59,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "teaching-project-1",
+      },{id: "teaching-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Teaching",handler: () => {
