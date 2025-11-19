@@ -17,7 +17,7 @@ Based on the book, I recorded a series of lectures covering the whole text. They
 Here is an example of a lecture video, where I prove that square root of 2 is irrational:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qo6l6m2Y-yQ?si=uMs-EOXnw-S6V366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Also, in Cuesta's book there are many exercises for each chapter, and <a href="https://ocw.uc3m.es/mod/page/view.php?id=4812>these are solved, both in PDF and video format</a>.
+Also, in Cuesta's book there are many exercises for each chapter, and <a href="https://ocw.uc3m.es/mod/page/view.php?id=4812">these are solved, both in PDF and video format</a>.
 
 An example of problem-resolution video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CgNgbSZ4bo?si=iiL-21qkbQ0B4o9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
