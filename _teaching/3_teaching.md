@@ -8,12 +8,13 @@ category: work
 related_publications: false
 ---
 
-<a href="{{ '/assets/pdf/mathematics-for-neuroscience-2025.pdf' | relative_url }}">
+<a href="{{ '/assets/pdf/mathematics-for-neuroscience-2025.pdf' | relative_url }}"
+   target="_blank" rel="noopener">
   <img
     src="{{ '/assets/img/neuroscience_cover.png' | relative_url }}"
     alt="Mathematics for Neuroscience"
     class="img-fluid rounded z-depth-1"
-    style="max-width: 250px; height: auto;"
+    style="max-width: 250px; height: auto; cursor: pointer;"
   >
 </a>
 [Click on the image to download the Lecture Notes]
@@ -29,8 +30,7 @@ Many more topics could be included, but time is (sadly) limited. If, after
 reading this book, you realize a newfound love for mathematics, please
 keep studying them.
 
-For Chapters 1 to 5 I have copied a lot of material from the book “Differ-
-ential and Integral Calculus of a Single Variable” by my colleague and
+For Chapters 1 to 5 I have copied a lot of material from the book “Differential and Integral Calculus of a Single Variable” by my colleague and
 mentor José A. Cuesta.
 
 Chapter 6 is copied almost verbatim from Steven Strogatz’s excellent
