@@ -7,8 +7,8 @@ importance: 3
 category: work
 related_publications: false
 ---
-
-[![Mathematics for Neuroscience](/assets/img/neuroscience_cover.png)](/assets/pdf/mathematics-for-neuroscience-2025.pdf)
+[![Mathematics for Neuroscience](/assets/img/neuroscience_cover.png){: width="250px" }]
+(/assets/pdf/mathematics-for-neuroscience-2025.pdf)
 
 [Click on the image to download the Lecture Notes]
 
