@@ -2,18 +2,21 @@
 layout: page
 title: Mathematics for Neuroscience
 description: an introduction to mathematics for students in biomedical degrees
-img: assets/img/neuroscience.jpg
+img: https://uploads3.wikiart.org/images/fukushima-keido/splendid-working-functioning-arises-from-a-pure-heart.jpg
 importance: 3
 category: work
 related_publications: true
 ---
 
+<a href="assets/pdf/mathematics-for-neuroscience-2025.pdf">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/neuroscience_cover.jpg" title="Fukushima Keido Enso" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+</a>
 [Click on the image to download the Lecture Notes]
+
 This course is an introduction to Mathematics for students in the Neu-
 roscience Degree. The range and depth of math that could be taught
 in this course is very wide, so I will try to focus on those concepts that
