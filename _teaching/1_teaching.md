@@ -2,7 +2,7 @@
 layout: page
 title: Calculus I
 description: calculus in one variable
-img: assets/img/12.jpg
+img: https://uploads8.wikiart.org/images/fukushima-keido/enso.jpg
 importance: 1
 category: work
 related_publications: true
@@ -21,9 +21,3 @@ Also, in Cuesta's book there are many exercises for each chapter, and <a href="h
 
 An example of problem-resolution video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CgNgbSZ4bo?si=iiL-21qkbQ0B4o9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://uploads8.wikiart.org/images/fukushima-keido/enso.jpg" title="Fukushima Keido Enso" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
