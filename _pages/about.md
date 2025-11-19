@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-(WEBSITE UNDER CONSTRUCTION)
-
 I am a multidisciplinary researcher with degrees in Biology, Physics and Mathematics. I am interested in using quantitative methods to solve biological problems.
 
 After earning my PhD in Mathematical Engineering from UC3M in 2017, I won a Ramón Areces Postdoctoral Fellowship to work on antibiotic resistance at the University of Exeter, where I stayed for one year. In 2019 I returned to the Department of Mathematics at UC3M as an Assistant Professor. Finally, in 2025 I became Associate Professor.
