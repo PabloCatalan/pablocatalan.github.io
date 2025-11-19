@@ -55,6 +55,11 @@ ninja.data = [{
           description: "calculus in several variable",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_teaching/";
+            },},{id: "teaching-mathematics-for-neuroscience",
+          title: 'Mathematics for Neuroscience',
+          description: "an introduction to mathematics for students in biomedical degrees",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/3_teaching/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
