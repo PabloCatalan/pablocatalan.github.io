@@ -5,16 +5,24 @@ description: an introduction to mathematics for students in biomedical degrees
 img: assets/img/splendid-working-functioning-arises-from-a-pure-heart.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
-<a href="assets/pdf/mathematics-for-neuroscience-2025.pdf">
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/neuroscience_cover.jpg" title="Fukushima Keido Enso" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    <div
+      onclick="window.location.href='{{ '/assets/pdf/mathematics-for-neuroscience-2025.pdf' | relative_url }}'"
+      style="cursor: pointer;"
+    >
+      {% include figure.liquid
+         loading="eager"
+         path="assets/img/neuroscience_cover.jpg"
+         title="Mathematics for Neuroscience"
+         class="img-fluid rounded z-depth-1"
+      %}
     </div>
+  </div>
 </div>
-</a>
 [Click on the image to download the Lecture Notes]
 
 This course is an introduction to Mathematics for students in the Neu-
