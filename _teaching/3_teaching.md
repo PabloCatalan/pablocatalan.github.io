@@ -8,15 +8,7 @@ category: work
 related_publications: false
 ---
 
-<a href="{{ 'assets/pdf/mathematics-for-neuroscience-2025.pdf' | relative_url }}"
-   target="_blank" rel="noopener">
-  <img
-    src="{{ 'assets/img/neuroscience_cover.png' | relative_url }}"
-    alt="Mathematics for Neuroscience"
-    class="img-fluid rounded z-depth-1"
-    style="max-width: 250px; height: auto; cursor: pointer;"
-  >
-</a>
+[![Mathematics for Neuroscience](/assets/img/neuroscience_cover.png)](/assets/pdf/mathematics-for-neuroscience-2025.pdf)
 [Click on the image to download the Lecture Notes]
 
 This course is an introduction to Mathematics for students in the Neu-
