@@ -3,7 +3,7 @@ layout: page
 title: Mathematics for Neuroscience
 description: an introduction to mathematics for students in biomedical degrees
 img: assets/img/neuroscience.jpg
-importance: 2
+importance: 3
 category: work
 related_publications: true
 ---
