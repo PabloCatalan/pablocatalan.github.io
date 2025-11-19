@@ -52,7 +52,7 @@ ninja.data = [{
               window.location.href = "/teaching/1_teaching/";
             },},{id: "teaching-calculus-ii",
           title: 'Calculus II',
-          description: "calculus in several variable",
+          description: "calculus in several variables",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_teaching/";
             },},{id: "teaching-mathematics-for-neuroscience",
