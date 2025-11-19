@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Calculus II
-description: calculus in several variable
+description: calculus in several variables
 img: assets/img/calculusII.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 The course will teach you to deal with functions in several variables. The syllabus includes an introduction to functions in several variables, differential and integral calculus and the integral theorems of multivariable calculus (Green, Stokes and Gauss). 
