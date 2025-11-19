@@ -2,7 +2,7 @@
 layout: page
 title: Mathematics for Neuroscience
 description: an introduction to mathematics for students in biomedical degrees
-img: https://uploads3.wikiart.org/images/fukushima-keido/splendid-working-functioning-arises-from-a-pure-heart.jpg
+img: assets/img/splendid-working-functioning-arises-from-a-pure-heart.jpg
 importance: 3
 category: work
 related_publications: true
