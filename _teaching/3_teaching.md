@@ -10,7 +10,7 @@ related_publications: false
 
 <a href="{{ '/assets/pdf/mathematics-for-neuroscience-2025.pdf' | relative_url }}">
   <img
-    src="{{ '/assets/img/neuroscience_cover.jpg' | relative_url }}"
+    src="{{ '/assets/img/neuroscience_cover.png' | relative_url }}"
     alt="Mathematics for Neuroscience"
     class="img-fluid rounded z-depth-1"
     style="max-width: 250px; height: auto;"
