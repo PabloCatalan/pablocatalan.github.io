@@ -8,15 +8,12 @@ category: work
 related_publications: true
 ---
 
-The course will teach you to deal with functions in one variable.
+The course will teach you to deal with functions in one (real) variable. The syllabus includes an introduction to real numbers, sequences and series, as well as differential and integral calculus in one variable.
 
-YouTube: https://www.youtube.com/watch?v=H7yr607PJQ0&list=PLqcCv_LnBG_1KR12AOc0fgVnLDv8f0cZM
+For my lectures I use my colleague <a href="https://ocw.uc3m.es/pluginfile.php/5548/mod_page/content/12/CuestaCalculusOCW.pdf">Jose Cuesta's Calculus book</a>, which I find has a great balance between mathematical rigor and calculation techniques.
 
-OCW UC3M: https://ocw.uc3m.es/course/view.php?id=306
+Based on the book, I recorded a series of lectures covering the whole text. They are hosted in <a href="https://www.youtube.com/@pablocatalanfdez">my Youtube channel</a>, and you can find <a href="https://ocw.uc3m.es/mod/page/view.php?id=4809">a link to the lectures at the OCW UC3M page</a>. Alternatively, you can find <a href="https://www.youtube.com/watch?v=H7yr607PJQ0&list=PLqcCv_LnBG_1KR12AOc0fgVnLDv8f0cZM">all the lectures under one playlist here</a>.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
