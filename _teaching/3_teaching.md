@@ -16,7 +16,7 @@ related_publications: false
     >
       {% include figure.liquid
          loading="eager"
-         path="assets/pdf/neuroscience_cover.pdf"
+         path="assets/img/neuroscience_cover.png"
          title="Mathematics for Neuroscience"
          class="img-fluid rounded z-depth-1"
       %}
