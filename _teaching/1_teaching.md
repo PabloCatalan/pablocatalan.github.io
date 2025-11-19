@@ -5,7 +5,7 @@ description: calculus in one variable
 img: https://uploads8.wikiart.org/images/fukushima-keido/enso.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 The course will teach you to deal with functions in one (real) variable. The syllabus includes an introduction to real numbers, sequences and series, as well as differential and integral calculus in one variable.
