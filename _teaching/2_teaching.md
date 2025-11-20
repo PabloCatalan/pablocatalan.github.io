@@ -15,7 +15,7 @@ related_publications: false
 }
 </style>
 
-[![Notes for Calculus II](/assets/img/calculusII.png){: .note-cover }](/assets/pdf/CalculusII_2025.pdf)
+[![Notes for Calculus II](/assets/img/calculusII_cover.png){: .note-cover }](/assets/pdf/CalculusII_2025.pdf)
 
 [Click on the image to download the Lecture Notes]
 
